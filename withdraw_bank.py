@@ -51,4 +51,4 @@ try:
     account.withdraw(withdrawal_amount)
 
 except Exception as e:
-    print("bsdk thek se type kar mc")
+    print("kindly input a valid pancard number")
