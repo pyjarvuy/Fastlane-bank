@@ -51,4 +51,4 @@ try:
     account.withdraw(deposit_amount)
 
 except Exception as e:
-    print("tera baap ne banaya tha kya account lawdu")
+    print("Kindly check all the details, and Try Again!!")
